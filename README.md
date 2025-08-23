@@ -16,9 +16,9 @@
 - **Class:** IVP001  
 - **Instructor:** Dr. Đỗ Như Tài  
 - **Student:** Nguyễn Phạm Minh Huy  
-- **ID:** (tự điền MSSV nếu cần)  
-- **Topic:** (bạn tự thêm tên đề tài hoặc project)  
-- **Date:** August 2025  
+- **ID:** 31231022606
+- **Topic:** Personal practice and information
+- **Date:** Last semester 2025
 
 ---
 
