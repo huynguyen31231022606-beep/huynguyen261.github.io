@@ -1,8 +1,4 @@
 # huynguyen261.github.io
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/UEH_logo.png/240px-UEH_logo.png" alt="UEH Logo" width="120"/>
-</p>
-
 <h1 align="center">📘 University of Economics Ho Chi Minh City (UEH)</h1>
 <h2 align="center">Course Project Report</h2>
 
